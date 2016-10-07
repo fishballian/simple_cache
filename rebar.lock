@@ -1,1 +1,4 @@
-[].
+[{<<"resource_discovery">>,
+  {git,"git@github.com:fishballian/resource_discovery.git",
+       {ref,"6e43fd9d256b7e011a58635c68adae520d031f1d"}},
+  0}].
